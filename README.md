@@ -1,16 +1,24 @@
-### Hi there 👋
+# 👋 Hi there, I'm Matevž,
+a grammar school student from Slovenia and an avid developer. I mainly work with Go, especially on backend-based projects and CLI applications.
 
-<!--
-**matevzkeber/matevzkeber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub stats
+![Stats](https://github-readme-stats.vercel.app/api?username=matevzkeber&show_icons=true&theme=transparent)
 
-Here are some ideas to get you started:
+## 🖊️ Languages
+- Go
+- Javascript/Typescript
+- Bash
+- Basic C#, Python and Haskell
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies
+- Linux
+- GitHub Actions
+- MongoDB
+- Docker
+- Discord bots
+- Web frameworks (Angular, Svelte...)
+
+## 📖 Currently learning:
+- Mobile app development with React Native
+- Functional programming with Haskell
+- Low-level programming with C

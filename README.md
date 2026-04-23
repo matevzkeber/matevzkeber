@@ -15,6 +15,7 @@
     - Familiar with MongoDB, Firebase, Supabase
 
 ## 📄 CV
-My CV is available on this [repository](https://github.com/matevzkeber/cv), in [🇬🇧 English](https://github.com/matevzkeber/CV/blob/master/matevz_keber_english.pdf) and [🇸🇮 Slovene](https://github.com/matevzkeber/CV/blob/master/matevz_keber_slovene.pdf).
+My CV is available on [this repository](https://github.com/matevzkeber/cv), in [🇬🇧 English](https://github.com/matevzkeber/CV/blob/master/matevz_keber_english.pdf) and [🇸🇮 Slovene](https://github.com/matevzkeber/CV/blob/master/matevz_keber_slovene.pdf).
 
-> [!NOTE] You can also find the Typst source files for the two documents under the same repository!
+> [!NOTE]
+> You can also find the Typst source files for the two documents under the same repository!
